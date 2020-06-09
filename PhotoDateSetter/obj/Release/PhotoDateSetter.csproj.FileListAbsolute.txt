@@ -12,3 +12,17 @@ C:\Users\dorivun\source\repos\PhotoDateSetter\PhotoDateSetter\obj\Release\jp.mn.
 C:\Users\dorivun\source\repos\PhotoDateSetter\PhotoDateSetter\obj\Release\PhotoDateSetter.csproj.GenerateResource.cache
 C:\Users\dorivun\source\repos\PhotoDateSetter\PhotoDateSetter\obj\Release\PhotoDateSetter.exe
 C:\Users\dorivun\source\repos\PhotoDateSetter\PhotoDateSetter\obj\Release\PhotoDateSetter.pdb
+C:\Users\dorivun\Documents\GitHub\jp.mn.jp.uk.PhotoDateSetter\PhotoDateSetter\bin\Release\PhotoDateSetter.exe.config
+C:\Users\dorivun\Documents\GitHub\jp.mn.jp.uk.PhotoDateSetter\PhotoDateSetter\bin\Release\PhotoDateSetter.exe
+C:\Users\dorivun\Documents\GitHub\jp.mn.jp.uk.PhotoDateSetter\PhotoDateSetter\bin\Release\PhotoDateSetter.pdb
+C:\Users\dorivun\Documents\GitHub\jp.mn.jp.uk.PhotoDateSetter\PhotoDateSetter\obj\Release\PhotoDateSetter.csprojAssemblyReference.cache
+C:\Users\dorivun\Documents\GitHub\jp.mn.jp.uk.PhotoDateSetter\PhotoDateSetter\obj\Release\MainWindow.g.cs
+C:\Users\dorivun\Documents\GitHub\jp.mn.jp.uk.PhotoDateSetter\PhotoDateSetter\obj\Release\App.g.cs
+C:\Users\dorivun\Documents\GitHub\jp.mn.jp.uk.PhotoDateSetter\PhotoDateSetter\obj\Release\PhotoDateSetter_MarkupCompile.cache
+C:\Users\dorivun\Documents\GitHub\jp.mn.jp.uk.PhotoDateSetter\PhotoDateSetter\obj\Release\PhotoDateSetter_MarkupCompile.lref
+C:\Users\dorivun\Documents\GitHub\jp.mn.jp.uk.PhotoDateSetter\PhotoDateSetter\obj\Release\MainWindow.baml
+C:\Users\dorivun\Documents\GitHub\jp.mn.jp.uk.PhotoDateSetter\PhotoDateSetter\obj\Release\PhotoDateSetter.g.resources
+C:\Users\dorivun\Documents\GitHub\jp.mn.jp.uk.PhotoDateSetter\PhotoDateSetter\obj\Release\jp.mn.uk.PhotoDateSetter.Properties.Resources.resources
+C:\Users\dorivun\Documents\GitHub\jp.mn.jp.uk.PhotoDateSetter\PhotoDateSetter\obj\Release\PhotoDateSetter.csproj.GenerateResource.cache
+C:\Users\dorivun\Documents\GitHub\jp.mn.jp.uk.PhotoDateSetter\PhotoDateSetter\obj\Release\PhotoDateSetter.exe
+C:\Users\dorivun\Documents\GitHub\jp.mn.jp.uk.PhotoDateSetter\PhotoDateSetter\obj\Release\PhotoDateSetter.pdb
