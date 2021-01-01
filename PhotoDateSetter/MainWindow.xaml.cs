@@ -126,7 +126,7 @@ namespace jp.mn.uk.PhotoDateSetter
                             //ASCII文字の場合は、文字列に変換する
                             string val = System.Text.Encoding.ASCII.GetString(item.Value);
                             val = val.Trim(new char[] { '\0' });
-                            if (item.Id == 0x0132)
+                            if (item.Id == 0x9003)
                             {
                                 string[] dttmp = Microsoft.VisualBasic.Strings.Split(val, " ");
                                 string[] tm = { "00", "00", "00" };

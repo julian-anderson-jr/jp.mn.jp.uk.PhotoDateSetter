@@ -24,5 +24,6 @@ C:\Users\dorivun\Documents\GitHub\jp.mn.jp.uk.PhotoDateSetter\PhotoDateSetter\ob
 C:\Users\dorivun\Documents\GitHub\jp.mn.jp.uk.PhotoDateSetter\PhotoDateSetter\obj\Release\PhotoDateSetter.g.resources
 C:\Users\dorivun\Documents\GitHub\jp.mn.jp.uk.PhotoDateSetter\PhotoDateSetter\obj\Release\jp.mn.uk.PhotoDateSetter.Properties.Resources.resources
 C:\Users\dorivun\Documents\GitHub\jp.mn.jp.uk.PhotoDateSetter\PhotoDateSetter\obj\Release\PhotoDateSetter.csproj.GenerateResource.cache
+C:\Users\dorivun\Documents\GitHub\jp.mn.jp.uk.PhotoDateSetter\PhotoDateSetter\obj\Release\PhotoDateSetter.csproj.CoreCompileInputs.cache
 C:\Users\dorivun\Documents\GitHub\jp.mn.jp.uk.PhotoDateSetter\PhotoDateSetter\obj\Release\PhotoDateSetter.exe
 C:\Users\dorivun\Documents\GitHub\jp.mn.jp.uk.PhotoDateSetter\PhotoDateSetter\obj\Release\PhotoDateSetter.pdb
